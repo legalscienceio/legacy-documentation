@@ -29,12 +29,11 @@ All Query parameters are optional and follow REST standards. They follow this fo
 The following is a list of available paramters:
 
 ### get_deleted
+Optional. If true, will return deleted entries. False by default.
 
 ### get_hidden
+Optional. If true, will return hidden entries. False by default.
 
-### on_dataset_page
-
-### site_key
 
 ## API Result
 
